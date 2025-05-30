@@ -7,7 +7,7 @@ let producao = [
     "roteador"
   ];
 
-  let elementoRemovido  = producao.pop();
+let elementoRemovido  = producao.pop();
 
 console.log(`Depois do pop: ${producao}`);
 console.log(`O elemento removido foi: ${elementoRemovido}`);
