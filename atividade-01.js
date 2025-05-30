@@ -9,4 +9,5 @@ let promocoes = [
     "hub USB"
   ];
   
-  promoções.push (`SSD 1TB`, `mesa digitalizadora`);
+  promocoes.push (`SSD 1TB`, `mesa digitalizadora`);
+  console.log(`Os produtos atualizados são ${promocoes}`);
